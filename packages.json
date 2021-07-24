@@ -1,0 +1,22 @@
+[
+    {
+        "package": "libproj",
+        "url": "https://github.com/paleolimbot/libproj"
+    },
+    {
+        "package": "libgeos",
+        "url": "https://github.com/paleolimbot/libgeos"
+    },
+    {
+        "package": "geos",
+        "url": "https://github.com/paleolimbot/geos"
+    },
+    {
+        "package": "s2",
+        "url": "https://github.com/r-spatial/s2"
+    },
+    {
+        "package": "wk",
+        "url": "https://github.com/paleolimbot/wk"
+    }
+]
