@@ -18,5 +18,13 @@
     {
         "package": "wk",
         "url": "https://github.com/paleolimbot/wk"
+    },
+    {
+        "package": "rlibproj",
+        "url": "https://github.com/paleolimbot/rlibproj"
+    },
+    {
+        "package": "crs2crs",
+        "url": "https://github.com/paleolimbot/crs2crs"
     }
 ]
