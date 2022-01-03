@@ -20,8 +20,8 @@
         "url": "https://github.com/paleolimbot/wk"
     },
     {
-        "package": "rlibproj",
-        "url": "https://github.com/paleolimbot/rlibproj"
+        "package": "rproj",
+        "url": "https://github.com/paleolimbot/rproj"
     },
     {
         "package": "crs2crs",
